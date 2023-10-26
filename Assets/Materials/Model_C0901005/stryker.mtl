@@ -1,0 +1,118 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5.5 5.5.3.2642 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl studio_stryker_r
+Ka 0.4 0.894118 0.423529
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 19.6983
+map_Kd strkcan.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl studio_stryker_r1
+Ka 0.458824 0.898039 0.4
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd strkina.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl studio_stryker_r2
+Ka 0.4 0.960784 0.427451
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 34.2967
+map_Kd strklite.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl studio_stryker_r3
+Ka 0.552941 0.941176 0.4
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 48.5029
+map_Kd strkskin.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl studio_stryker_r4
+Ka 0.427451 0.929412 0.4
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 36.7583
+map_Kd strkinc.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl studio_stryker_r5
+Ka 0.4 0.937255 0.462745
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 48.5029
+map_Kd strkinb.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl studio_stryker_r6
+Ka 0.592157 0.87451 0.4
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 29.8571
+map_Kd strkwhl.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
